@@ -1,6 +1,6 @@
 /*
  * ASCII Camera
- * http://radhesh1.github.com/ascii-camera/
+ * https://ascii-vision.vercel.app/
  *
  * Copyright 2023, Radhesh Goel (http://github.com/radhesh1)
  * Released under the MIT license

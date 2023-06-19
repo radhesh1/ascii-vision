@@ -3,7 +3,7 @@ ASCII Camera
 
 ASCII Camera uses the HTML5 getUserMedia API to transform a video stream from your webcam into a real-time ASCII representation.
 
-**[See it in action](gg.gg)**.
+**[See it in action](https://ascii-vision.vercel.app/)**.
 
 <img src="images/ascii-screenshot.png" />
 
@@ -23,8 +23,8 @@ ASCII Camera uses the HTML5 getUserMedia API to transform a video stream from yo
 **Radhesh Goel**
 
 * [About me](https://portfolio-radhesh1.vercel.app/)
-* LinkedIn: [linkedin.com/in/idevelop](http://www.linkedin.com/in/radhesh-g)
-* Twitter: [@idevelop](http://twitter.com/radhesh1)
+* LinkedIn: [linkedin.com/in/radhesh-g](http://www.linkedin.com/in/radhesh-g)
+* Twitter: [@radhesh1](http://twitter.com/radhesh1)
 
 ## License
 
