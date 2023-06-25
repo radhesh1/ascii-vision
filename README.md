@@ -24,7 +24,7 @@ ASCII Camera uses the HTML5 getUserMedia API to transform a video stream from yo
 
 * [About me](https://portfolio-radhesh1.vercel.app/)
 * LinkedIn: [linkedin.com/in/radhesh-g](http://www.linkedin.com/in/radhesh-g)
-* Twitter: [@radhesh1](http://twitter.com/radhesh1)
+* Twitter: [@radhesh1](https://twitter.com/Radhesh_Goel)
 
 ## License
 
